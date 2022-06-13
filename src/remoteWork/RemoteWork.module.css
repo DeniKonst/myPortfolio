@@ -1,0 +1,23 @@
+.remoteWorkBlock {
+    min-height: 40vh;
+    background-color: #fffecd;
+}
+.remoteContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 300px;
+}
+.title {
+    background-color: azure;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 150px;
+
+
+}

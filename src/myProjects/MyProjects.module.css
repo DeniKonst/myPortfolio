@@ -1,0 +1,27 @@
+.projectsBlock {
+    min-height: 130vh;
+    background-color: oldlace;
+}
+.projectsContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.projects {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid;
+
+
+}
+.header {
+    height: 250px;
+     }
+
+.title {
+    background-color: azure;
+
+}
